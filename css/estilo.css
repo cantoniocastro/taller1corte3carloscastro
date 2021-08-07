@@ -1,0 +1,59 @@
+@charset "utf-8";
+.T1 { color: blue;
+ font:"Times New Roman", Times, serif;
+ text-align:center;
+ }
+ .T3{ color: BLACK;
+ font:"Times New Roman", Times, serif;
+ text-align:center;
+ }
+ .p1 {
+	 color:black;
+	 font-family:Tahoma, Geneva, sans-serif;
+	 } 
+body {
+	background-color:#CCC;
+	font-size: 20px;
+	font-family:"Times New Roman", Times, serif;
+	 } 
+.T2{ color: red;
+ font:"Times New Roman", Times, serif;
+ text-align:center;
+ }
+ .p2{ color: black;
+ font:"Times New Roman", Times, serif;
+ }
+ 
+ ul { 
+ list-style-type:none;
+ margin:0;
+ padding:0;
+ overflow:hidden;
+ background-color:#333;
+	 }
+li {
+	float:left;
+	}
+li a {
+	display:block;
+	color:#FFF;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+	}
+	li a:hover{
+		background-color:#111;
+		}
+		
+		.MG {
+			height:300px;
+			width:450px;			}
+			.div {
+				padding:1em;
+				}
+	.box {
+		background-color:#1abc9c;
+		color: #fff;
+		margin:0 auto;
+		width:50%;
+		}
